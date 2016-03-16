@@ -1,1 +1,0 @@
-# jwriterp.github.io

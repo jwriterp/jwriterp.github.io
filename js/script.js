@@ -1,5 +1,5 @@
 (function($) {
-	$('.scroll-down-link').click(function(e) {
+	$('.scroll-down-click').click(function(e) {
 		var obj = $(e.target);
 		var scrollPos = obj.offset().top + obj.parent().innerHeight() - 25;
 		$("html, body").animate({
